@@ -1,7 +1,7 @@
 
 git add .
 
-git commit -m "Changed"
+git commit -m "%dp1"
 
 git pull
 
