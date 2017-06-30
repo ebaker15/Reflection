@@ -1,7 +1,7 @@
 
 git add .
 
-git commit -m %~dp0%
+git commit -m %1
 
 git pull
 
