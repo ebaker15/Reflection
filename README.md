@@ -1,5 +1,8 @@
 # Reflection
 ## Subtitle
+7/5
+Today we worked on the website, I found a purpose for my website, and I started to work on it. I went onto multiple supercell sponsored websites to gather the correct data for my website.
+
 
 7/3 
 Today we worked on the fundamentals of HTML. We learned CSS and Bootstrap, and we started a base for a  website. CSS is what is used to make the colors apepar. Bootstrap is a basic outline for a website.
