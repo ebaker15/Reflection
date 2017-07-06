@@ -1,5 +1,8 @@
 # Reflection
 ## Subtitle
+7/6 
+Today we worked on learning Python, a plethora of mind-numbing commands that are strict. Though, python will tell you which line your mistake is on, but sadly it won't tell you what is wrong with it. We also learned about the four types of variables, string, integer, float, and boolean. These variables are the ones that we have to use in python.
+
 7/5
 Today we worked on the website, I found a purpose for my website, and I started to work on it. I went onto multiple supercell sponsored websites to gather the correct data for my website.
 
