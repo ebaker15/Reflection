@@ -1,5 +1,11 @@
 # Reflection
 ## Subtitle
+7/11
+Today we worked on making a dictionary that told us what types of games there were. The variables were very incredible to how precise it is. Afterward, we worked on the pokemon project.
+
+7/7 
+Today we worked on finishing up our website. The website had a problem loading images. The format for the images were correct, though I believe there is something in the code that is prohibiting it from coming up.
+
 7/6 
 Today we worked on learning Python, a plethora of mind-numbing commands that are strict. Though, python will tell you which line your mistake is on, but sadly it won't tell you what is wrong with it. We also learned about the four types of variables, string, integer, float, and boolean. These variables are the ones that we have to use in python.
 
