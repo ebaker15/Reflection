@@ -1,5 +1,8 @@
 # Reflection
 ## Subtitle
+7/12
+Today we worked on a program that turns military time into civilian time. It uses a lot of conditionals and other variables to work.
+
 7/11
 Today we worked on making a dictionary that told us what types of games there were. The variables were very incredible to how precise it is. Afterward, we worked on the pokemon project.
 
