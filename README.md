@@ -1,5 +1,8 @@
 # Reflection
 ## Subtitle
+7/13
+Today we worked on our python code that creates a box that follows the constraints of which was given in the variables to create the box. When I started it, the x and y variables were kicking my butt, until I found out the correct way to state them. I still need to mulitply them so I can keep the measurements.
+
 7/12
 Today we worked on a program that turns military time into civilian time. It uses a lot of conditionals and other variables to work.
 
