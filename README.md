@@ -1,5 +1,11 @@
 # Reflection
 ## Subtitle
+7/18
+Today I finally cracked the password. It took me so long, I worked on my code late into the night, and worked on it all chances I got. I asked for assistance with my if statement, and I was told to use parenthesees. When I used them, my code finally worked.
+
+7/17 
+Today we worked on working on a code for breaking the new wifi password. The wifi password was only 1's and 0's. The if statements and loops are beating me up.
+
 7/13
 Today we worked on our python code that creates a box that follows the constraints of which was given in the variables to create the box. When I started it, the x and y variables were kicking my butt, until I found out the correct way to state them. I still need to mulitply them so I can keep the measurements.
 
