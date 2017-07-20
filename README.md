@@ -1,5 +1,8 @@
 # Reflection
 ## Subtitle
+7/19
+Today I wrote a code that puts two words in a list together which guesses the wifi password. The wifi password is two words, and out of a list of 10,000 words, there are 1,000,000 possibilities which means that it would take 190 years to complete due to the fact that each password takes 1 second to load and process. Then we created functions.
+
 7/18
 Today I finally cracked the password. It took me so long, I worked on my code late into the night, and worked on it all chances I got. I asked for assistance with my if statement, and I was told to use parenthesees. When I used them, my code finally worked.
 
