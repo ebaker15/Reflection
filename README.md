@@ -1,5 +1,8 @@
 # Reflection
 ## Subtitle
+7/25
+Today we learned about functions and math definitions. We also made a reply bot.
+
 7/19
 Today I wrote a code that puts two words in a list together which guesses the wifi password. The wifi password is two words, and out of a list of 10,000 words, there are 1,000,000 possibilities which means that it would take 190 years to complete due to the fact that each password takes 1 second to load and process. Then we created functions.
 
