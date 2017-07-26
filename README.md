@@ -1,5 +1,8 @@
 # Reflection
 ## Subtitle
+7/26
+Today was a work day. I started the first half of class working on happy numbers, while I spent the last part of class working on my twitterbot.
+
 7/25
 Today we learned about functions and math definitions. We also made a reply bot.
 
